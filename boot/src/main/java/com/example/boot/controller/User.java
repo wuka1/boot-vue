@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.boot.demos.web;
+package com.example.boot.controller;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
